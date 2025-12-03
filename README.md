@@ -28,8 +28,7 @@ https://github.com/user-attachments/assets/8e5604eb-e3b7-4cee-99e6-f18dfd546788
 
 ## Data Preparation for Finetuning model
 - Audio: mono 44.1 kHz WAV/FLAC; per‑utterance 3–20 s; peak‑normalized.
-- Dataset finetuned : capleaf/viVoice
-- Total duration: 1,016.97 hours
+- Dataset finetuned : cosrigel/vn_tts_medium_clean
 
 ### Training Configuration:
 - Base model : nari-labs/Dia-1.6B
